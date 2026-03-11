@@ -1,5 +1,5 @@
-billing_account_id = "FILL-THIS"
-org_id             = "FILL-THIS"
+billing_account_id = "xxxxx"
+org_id             = "xxxxxxx"
 folder_id          = null
 
 project_id_prefix            = "astrafy-bch"

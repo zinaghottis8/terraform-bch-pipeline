@@ -1,0 +1,12 @@
+billing_account_id = "01FE2F-1DCA03-87AC84"
+org_id             = "165837360889"
+folder_id          = null
+
+project_id_prefix            = "astrafy-bch"
+project_name                 = "AstraFy BCH pipeline"
+bigquery_location            = "EU"
+staging_dataset_id           = "bch_staging"
+mart_dataset_id              = "bch_mart"
+service_account_id           = "dbt-runner"
+create_service_account_key   = true
+bootstrap_billing_project_id = null

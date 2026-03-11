@@ -1,5 +1,5 @@
-billing_account_id = "01FE2F-1DCA03-87AC84"
-org_id             = "165837360889"
+billing_account_id = "FILL-THIS"
+org_id             = "FILL-THIS"
 folder_id          = null
 
 project_id_prefix            = "astrafy-bch"
